@@ -1,0 +1,2 @@
+# AI-ENABLED-STUDENT-COMPLAINT-REDRESSAL-AND-RESOLUTION-TRACKING-PORTAL-
+Educational institutions receive numerous student complaints related to academics, hostel facilities, examinations, transportation, infrastructure, and other campus services. Traditional complaint management methods, such as paper-based submissions or email communication, are often slow, difficult to track, and lack transparency.
